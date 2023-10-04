@@ -10,7 +10,7 @@ export default function Prop_Types({ name, age, grade, address }) {
     </>
   );
 }
-
+// sd 
 Prop_Types.propTypes = {
   // All props must be validated.
   name: PropTypes.string.isRequired,
